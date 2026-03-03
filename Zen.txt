@@ -1,1 +1,2 @@
 Lo simple es mejor que lo complejo
+Lo plano es mejor que lo anidado
